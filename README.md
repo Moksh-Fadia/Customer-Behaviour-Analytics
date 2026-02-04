@@ -90,21 +90,17 @@ Advanced SQL techniques used:
 
 ## 📈 Tableau Dashboards
 
-Built **3 interactive dashboards**:
+Below are snapshots of the final Tableau dashboards created as part of this project:
+
 
 ### 1️⃣ Revenue & Sales Performance Overview
-- Top revenue-generating products
-- Revenue share by category
-- Payment method and shipping behavior
+![Revenue Dashboard](dashboards/proj_dashboard1.png)
 
 ### 2️⃣ Seasonality, Discounts & Purchase Behavior
-- Revenue distribution by purchase frequency
-- Discount effectiveness by age and category
-- Seasonal revenue patterns across locations
+![Seasonality Dashboard](dashboards/proj_dashboard2.png)
 
 ### 3️⃣ Customer Demographics & Preferences
-- Gender × size purchase behavior
-- Purchase volume vs average spend by age group
+![Customer Demographics Dashboard](dashboards/proj_dashboard3.png)
 
 ---
 
