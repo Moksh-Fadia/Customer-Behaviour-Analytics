@@ -13,6 +13,7 @@ The analysis follows a complete analytics workflow:
 - Data cleaning & feature engineering (Python / Pandas)
 - Business-driven querying & validation (MySQL)
 - Interactive dashboards & storytelling (Tableau)
+- Spreadsheet-based KPI reporting & pivot analysis (Microsoft Excel)
 - Final presentation (PPT)
 
 ---
@@ -22,6 +23,7 @@ The analysis follows a complete analytics workflow:
 - **Python**: Pandas, Matplotlib  
 - **SQL**: MySQL (window functions, ranking, segmentation)  
 - **Visualization**: Tableau  
+- **Excel**: Pivot Tables, Interactive charts
 
 ---
 
@@ -101,6 +103,18 @@ Below are snapshots of the final Tableau dashboards created as part of this proj
 
 ### 3️⃣ Customer Demographics & Preferences
 ![Customer Demographics Dashboard](dashboards/proj_dashboard3.png)
+
+---
+
+### 📊 Excel Business Analysis
+
+In addition to Python and SQL analysis, business metrics were validated and summarized using Microsoft Excel.
+
+Built pivot-table driven analysis including:
+
+- KPI dashboard (Total Revenue, Total Orders, Discount Impact, Average Spend)
+- Customer and revenue segmentation across category, region, and demographics
+- Interactive chart-based summaries with slicers for dynamic filtering
 
 ---
 
