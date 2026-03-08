@@ -4,7 +4,7 @@ An end-to-end **data analytics project** analyzing customer shopping behavior to
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes **3,900 customer purchase transactions** across demographics, product categories, discounts, subscriptions, and purchase frequency.  
 The goal is to identify **what actually drives revenue** and translate technical analysis into **business-ready insights**.
@@ -18,7 +18,7 @@ The analysis follows a complete analytics workflow:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Python**: Pandas, Matplotlib  
 - **SQL**: MySQL (window functions, ranking, segmentation)  
@@ -27,7 +27,7 @@ The analysis follows a complete analytics workflow:
 
 ---
 
-## 📂 Dataset Summary
+## Dataset Summary
 
 - **Records:** 3,900 transactions  
 - **Features:** 18 columns  
@@ -41,7 +41,7 @@ The analysis follows a complete analytics workflow:
 
 ---
 
-## 🔧 Data Preparation & Feature Engineering
+## Data Preparation & Feature Engineering
 
 Key preprocessing steps:
 - Category-wise median imputation for review ratings
@@ -56,7 +56,7 @@ Key preprocessing steps:
 
 ---
 
-## 📊 Exploratory Analysis (Python)
+## Exploratory Analysis (Python)
 
 Major analytical themes:
 - **Age vs Revenue**:  
@@ -72,7 +72,7 @@ Major analytical themes:
 
 ---
 
-## 🗄️ SQL Business Analysis (MySQL)
+## SQL Business Analysis (MySQL)
 
 Executed **20+ business-focused SQL queries**, including:
 - Revenue contribution and percentage share
@@ -90,7 +90,7 @@ Advanced SQL techniques used:
 
 ---
 
-## 📈 Tableau Dashboards
+## Tableau Dashboards
 
 Below are snapshots of the final Tableau dashboards created as part of this project:
 
@@ -106,7 +106,7 @@ Below are snapshots of the final Tableau dashboards created as part of this proj
 
 ---
 
-### 📊 Excel Business Analysis
+### Excel Business Analysis
 
 In addition to Python and SQL analysis, business metrics were validated and summarized using Microsoft Excel.
 
@@ -118,7 +118,7 @@ Built pivot-table driven analysis including:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Revenue growth is **frequency-driven**, not transaction-size driven
 - Middle-aged customers contribute the highest revenue due to frequent purchases
@@ -128,7 +128,7 @@ Built pivot-table driven analysis including:
 
 ---
 
-## 🎯 Business Recommendations
+## Business Recommendations
 
 - Focus loyalty programs on increasing purchase frequency
 - Apply discounts selectively by category
@@ -138,7 +138,7 @@ Built pivot-table driven analysis including:
 
 ---
 
-## 📑 Final Deliverable
+## Final Deliverable
 
 - **Executive-ready presentation (PPT)** summarizing insights and recommendations  
 - Designed for stakeholders
