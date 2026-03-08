@@ -58,7 +58,6 @@ Key preprocessing steps:
 
 ## Exploratory Analysis (Python)
 
-Major analytical themes:
 - **Age vs Revenue**:  
   Average spend per transaction is nearly constant (~$60); revenue differences are driven by **purchase frequency**, not spend size.
 - **Discount Impact**:  
@@ -82,11 +81,6 @@ Executed **20+ business-focused SQL queries**, including:
 - Frequency vs revenue analysis
 - Seasonal and location-based trends
 - Payment method and discount usage patterns
-
-Advanced SQL techniques used:
-- Window functions (`ROW_NUMBER`, `OVER`)
-- Conditional aggregation
-- Ranking and segmentation logic
 
 ---
 
