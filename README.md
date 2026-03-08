@@ -11,9 +11,9 @@ The goal is to identify **what actually drives revenue** and translate technical
 
 The analysis follows a complete analytics workflow:
 - Data cleaning & feature engineering (Python / Pandas)
-- Business-driven querying & validation (MySQL)
-- Interactive dashboards & storytelling (Tableau)
-- Spreadsheet-based KPI reporting & pivot analysis (Microsoft Excel)
+- Business-driven querying (MySQL)
+- Interactive dashboards (Tableau)
+- KPI reporting and pivot tables (Microsoft Excel)
 - Final presentation (PPT)
 
 ---
