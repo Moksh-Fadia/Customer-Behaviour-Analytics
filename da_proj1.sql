@@ -58,7 +58,7 @@ FROM
 		ROW_NUMBER() OVER (PARTITION BY category ORDER BY COUNT(*) DESC) AS item_rank 
     FROM customer
 	GROUP BY item_purchased, category
-    ) ranked_items	  -- an alias/table name for this nested query
+    ) ranked_items	 
 WHERE item_rank <= 3;
     
 -- 9. Repeat buyers (more than 5 previous purchases) on subscription

@@ -112,13 +112,22 @@ Built pivot-table driven analysis including:
 
 ---
 
+## Statistical Validation
+
+To complement the descriptive analysis, statistical hypothesis tests were performed:
+
+- **Chi-square test:** Found a statistically significant association between subscription status and repeat-customer status (p = 0.028), although the effect was very weak (Cramér's V = 0.035).
+- **Mann–Whitney U test:** Found no statistically significant difference in purchase amounts between discounted and non-discounted transactions (p = 0.261).
+
+---
+
 ## Key Insights
 
 - Revenue growth is **frequency-driven**, not transaction-size driven
 - Middle-aged customers contribute the highest revenue due to frequent purchases
-- Discounts are effective only in specific categories
+- Discounts are effective only in specific categories, with no statistically significant difference in overall purchase amounts between discounted and non-discounted transactions
 - Repeat customers dominate total revenue
-- Subscriptions slightly improve retention but do not drive major revenue lift
+- Subscriptions show a statistically significant but very weak association with repeat-customer behavior
 
 ---
 
